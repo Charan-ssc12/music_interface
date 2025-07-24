@@ -149,9 +149,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
+Your Name - Pydi Sri Sai Charan - sscharanpydi@gmail.com
 
-Project Link: [https://github.com/yourusername/spotify-clone](https://github.com/yourusername/spotify-clone)
+Project Link: https://github.com/Charan-ssc12/music_interface
 
 ---
 
